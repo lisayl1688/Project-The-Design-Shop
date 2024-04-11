@@ -84,6 +84,7 @@ header ul li {
 }
 .Fjallraven .marke {
     bottom: 1em;
+    /*opacity: 1;*/
 }
 .Fjallraven .preis {
     right: 0em;
