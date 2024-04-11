@@ -64,7 +64,6 @@ header ul li {
     grid-template-columns: repeat(3,1fr);
     grid-template-rows: repeat(14, 1fr);
     gap: 20px;
-    height: 616vh;
 }
 
 
@@ -751,11 +750,10 @@ header ul li {
 
 .end {
     display: grid;
-    grid-template-columns: repeat(4,1fr);
     grid-template-rows: repeat(3, 1fr);
     gap: 20px;
     width: 100vw;
-    height: 70vh;
+    height: 35vh;
     grid-template-columns: 450px 100px 200px 1fr;
 }
 
