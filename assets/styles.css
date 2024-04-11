@@ -94,8 +94,6 @@ header ul li {
 }
 
 
-
-
 .Tomons {
     height: 95vh;
     background-image: url(./img/Tomons.png.png);
@@ -114,6 +112,9 @@ header ul li {
 }
 .Tomons .preis {
     right: 0em;
+}
+.Tomons:hover {
+    opacity: 0.5;
 }
 
 
@@ -136,6 +137,9 @@ header ul li {
 .UconAcrobatics .preis {
     right: 0em;
 }
+.UconAcrobatics:hover {
+    opacity: 0.5;
+}
 
 
 .Retrospec {
@@ -156,6 +160,9 @@ header ul li {
 }
 .Retrospec .preis {
     right: 0em;
+}
+.Retrospec:hover {
+    opacity: 0.5;
 }
 
 
@@ -178,6 +185,9 @@ header ul li {
 .Fellow .preis {
     right: 0em;
 }
+.Fellow :hover {
+    opacity: 0.5;
+}
 
 
 .CandylabToys {
@@ -199,6 +209,10 @@ header ul li {
 .CandylabToys .preis {
     right: 0em;
 }
+.CandylabToys:hover {
+    opacity: 0.5;
+}
+
 
 
 .Taschen {
@@ -220,6 +234,10 @@ header ul li {
 .Taschen .preis {
     right: 0em;
 }
+.Taschen :hover {
+    opacity: 0.5;
+}
+
 
 
 .SophieLovell {
@@ -243,6 +261,10 @@ header ul li {
 .SophieLovell .preis {
     right: 0em;
 }
+.SophieLovell:hover {
+    opacity: 0.5;
+}
+
 
 
 .NathanWilliams {
@@ -264,6 +286,10 @@ header ul li {
 .NathanWilliams .preis {
     right: 0em;
 }
+.NathanWilliams:hover {
+    opacity: 0.5;
+}
+
 
 
 .Ugmonk {
@@ -284,6 +310,9 @@ header ul li {
 }
 .Ugmonk .preis {
     right: 0em;
+}
+.Ugmonk:hover {
+    opacity: 0.5;
 }
 
 
@@ -306,6 +335,9 @@ header ul li {
 .Corkcicle .preis {
     right: 0em;
 }
+.Corkcicle:hover {
+    opacity: 0.5;
+}
 
 
 .HermanMiller {
@@ -327,6 +359,10 @@ header ul li {
 .HermanMiller .preis {
     right: 0em;
 }
+.HermanMiller:hover {
+    opacity: 0.5;
+}
+
 
 
 .FieldNotes {
@@ -348,6 +384,9 @@ header ul li {
 .FieldNotes .preis {
     right: 0em;
 }
+.FieldNotes :hover {
+    opacity: 0.5;
+}
 
 
 .CounterPrint{
@@ -368,6 +407,9 @@ header ul li {
 }
 .CounterPrint .preis {
     right: 0em;
+}
+.CounterPrint:hover {
+    opacity: 0.5;
 }
 
 
@@ -392,6 +434,10 @@ header ul li {
 .Grupa .preis {
     right: 0em;
 }
+.Grupa:hover {
+    opacity: 0.5;
+}
+
 
 
 .Komono{
@@ -413,6 +459,10 @@ header ul li {
 .Komono .preis {
     right: 0em;
 }
+.Komono:hover {
+    opacity: 0.5;
+}
+
 
 
 .HeyStudio{
@@ -434,6 +484,10 @@ header ul li {
 .HeyStudio .preis {
     right: 0em;
 }
+.HeyStudio:hover {
+    opacity: 0.5;
+}
+
 
 
 .BlueBottleCompany{
@@ -455,6 +509,11 @@ header ul li {
 .BlueBottleCompany .preis {
     right: 0em;
 }
+.BlueBottleCompany:hover {
+    opacity: 0.5;
+}
+
+
 
 
 .BangOlufsen{
@@ -476,6 +535,10 @@ header ul li {
 .BangOlufsen .preis {
     right: 0em;
 }
+.BangOlufsen:hover {
+    opacity: 0.5;
+}
+
 
 
 .AnthonyBurrill{
@@ -497,6 +560,11 @@ header ul li {
 .AnthonyBurrill .preis {
     right: 0em;
 }
+.AnthonyBurrill:hover {
+    opacity: 0.5;
+}
+
+
 
 
 .EamesStyle{
@@ -518,6 +586,10 @@ header ul li {
 .EamesStyle .preis {
     right: 0em;
 }
+.EamesStyle:hover {
+    opacity: 0.5;
+}
+
 
 
 .ThamesHudson {
@@ -541,6 +613,11 @@ header ul li {
 .ThamesHudson .preis {
     right: 0em;
 }
+.ThamesHudson:hover {
+    opacity: 0.5;
+}
+
+
 
 
 .JosefMüllerBrockmann{
@@ -562,6 +639,11 @@ header ul li {
 .JosefMüllerBrockmann .preis {
     right: 0em;
 }
+.JosefMüllerBrockmann:hover {
+    opacity: 0.5;
+}
+
+
 
 
 .Herschel{
@@ -583,6 +665,11 @@ header ul li {
 .Herschel .preis {
     right: 0em;
 }
+.Herschel:hover {
+    opacity: 0.5;
+}
+
+
 
 
 .GoodFuckingDesignAdvice{
@@ -604,6 +691,10 @@ header ul li {
 .GoodFuckingDesignAdvice .preis {
     right: 0em;
 }
+.GoodFuckingDesignAdvice:hover {
+    opacity: 0.5;
+}
+
 
 
 .Apple{
@@ -625,6 +716,11 @@ header ul li {
 .Apple .preis {
     right: 0em;
 }
+.Apple:hover {
+    opacity: 0.5;
+}
+
+
 
 
 .Kinto{
@@ -646,6 +742,10 @@ header ul li {
 .Kinto .preis {
     right: 0em;
 }
+.Kinto:hover {
+    opacity: 0.5;
+}
+
 
 
 .Apple2{
@@ -667,6 +767,10 @@ header ul li {
 .Apple2 .preis {
     right: 0em;
 }
+.Apple2:hover {
+    opacity: 0.5;
+}
+
 
 
 .Menu {
@@ -690,6 +794,11 @@ header ul li {
 .Menu .preis {
     right: 0em;
 }
+.Menu :hover {
+    opacity: 0.5;
+}
+
+
 
 
 .NormannCopenhagen{
@@ -711,6 +820,11 @@ header ul li {
 .NormannCopenhagen .preis {
     right: 0em;
 }
+.NormannCopenhagen:hover {
+    opacity: 0.5;
+}
+
+
 
 
 .Kardiel{
@@ -732,6 +846,10 @@ header ul li {
 .Kardiel .preis {
     right: 0em;
 }
+.Kardiel:hover {
+    opacity: 0.5;
+}
+
 
 
 .Soma{
@@ -753,6 +871,11 @@ header ul li {
 .Soma .preis {
     right: 0em;
 }
+.Soma:hover {
+    opacity: 0.5;
+}
+
+
 
 .end {
     display: grid;
