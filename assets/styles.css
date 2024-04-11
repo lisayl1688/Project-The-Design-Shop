@@ -88,6 +88,11 @@ header ul li {
 .Fjallraven .preis {
     right: 0em;
 }
+.Fjallraven:hover {
+    opacity: 0.5;
+}
+
+
 
 
 .Tomons {
@@ -753,7 +758,7 @@ header ul li {
     grid-template-rows: repeat(3, 1fr);
     gap: 20px;
     width: 100vw;
-    height: 35vh;
+    height: 25vh;
     grid-template-columns: 450px 100px 200px 1fr;
 }
 
